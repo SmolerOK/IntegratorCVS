@@ -1,0 +1,7 @@
+{
+  "mqttClientId" : "Integrator",
+  "mqttClientIp" : "194.87.237.67",
+  "mqttClientPort" : 1883,
+  "mqttUsername" : "admin",
+  "mqttPassword" : "333"
+}
